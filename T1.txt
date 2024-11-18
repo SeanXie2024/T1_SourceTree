@@ -6,5 +6,6 @@ Checkout master and add T2.txt
 Create b2_1
 Update master
 Update master 2nd
+Check out and update master, delete T1 and b2_1, new M1.
 Update master 3rd
 
