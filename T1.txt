@@ -1,3 +1,4 @@
 New test file
 Add second line
 Add 3rd line
+checkout master and add T2.txt
