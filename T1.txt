@@ -1,4 +1,6 @@
 New test file
 Add second line
 Add 3rd line
-checkout master and add T2.txt
+Generate Branch1
+Checkout master and add T2.txt
+
