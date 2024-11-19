@@ -1,5 +1,17 @@
 Clean
 update dev1
 update dev1 2nd
+<<<<<<< HEAD
 C T2，T4，dev2
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+C T2，T4,T5,T6
+=======
+C T2，T4，dev2
+>>>>>>> dev2
+=======
+C T2，T4，dev2
+>>>>>>> a74ebf2 (dev2.1: C dev2)
+>>>>>>> c7f9346 (no message)
 
